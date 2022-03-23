@@ -3,6 +3,7 @@
 Databases and SQL for Data Science with Python Final Project
 Used SQL to analyze 3 datasets: Chicago Socioeconomic Indicators, Chicago Public Schools, and Chicago Crime Data from the Chicago Data Portal.
 Answered the following 10 questions:
+
 Problem 1: Find the total number of crimes recorded in the CRIME table.
 Problem 2: List community areas with per capita income less than 11000.
 Problem 3: List all case numbers for crimes involving minors?
